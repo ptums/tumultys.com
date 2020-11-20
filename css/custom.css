@@ -1,0 +1,152 @@
+#top-logo{
+	padding:2%;
+
+}
+header{
+	background-color:#eee3cd;
+	width:100%;
+	height:50%;
+}
+#menu-color{
+	background-color: #8d4458;
+	width:100%;
+	height:8%;
+}
+#custom-menu-top{
+		list-style-type: none !important;
+
+}
+#custom-menu-top a {
+font-size:33px !important;
+		color:#ecdd63 !important;
+		font-weight: bold;
+		font-family:Garamond;
+
+	}
+#custom-menu-top li {
+	display: inline;
+	padding: 4%;
+	margin-top:2% !important;
+}
+#border-shadow-box{
+	box-shadow: 6px 8px 6px #FFF;
+}
+#promo-box{
+	margin-left:18%;
+}
+#tanbox{
+	background-color:#eee3cd;
+	width:20%;
+	margin:.5%;
+	margin-right:4%;
+	position:relative;
+
+	}
+footer{
+	background-color:#eee3cd;
+	border-top: 2px solid #8d4458;
+	position:fixed;
+    margin:0;
+    padding:0;
+    bottom:0;
+    left:0;
+    width:100%;
+}
+h6{
+	margin:.5%;
+	position:relative;
+	font-size:1em;
+}
+h2{
+	font-family: Garamond;
+	font-weight:bold;
+	position:relative;
+	margin-bottom:0px !important;
+	word-wrap: break-word;
+	font-size:2em;
+}
+h3{
+	font-size:2em;
+	font-family: Garamond;
+	font-weight:bold;
+	margin-top:0px !important;
+	margin-bottom:0px !important;
+	position:relative;
+	word-wrap: break-word;
+}
+h4{
+	font-family: Garamond;
+	font-weight:bold;
+	margin-top:0px !important;
+	margin-bottom:0px !important;
+	position:relative;
+	word-wrap: break-word;
+	font-size:1em;
+}
+#info{
+	padding:2%;
+	margin-right:4%;
+	width:400px;
+	height:450px;
+	background-color:#eee3cd;
+
+}
+h1{
+	font-family: Garamond;
+	font-weight:bold;
+	font-size:4em;
+	margin-bottom:0px !important;
+	margin-top:0px !important;
+	word-wrap: break-word;
+	border-bottom:3px solid #8d4458;
+}
+#border-top-box{
+
+	margin-top:8%;
+}
+.title-header{
+	color:#8d4458;;
+}
+#reservations{
+	font-size:1em;
+	margin-bottom:2%;
+	font-weight:700;
+margin:0;
+	padding:0;
+	text-align:center;
+}
+#about-text{
+	font-size:1.1em;
+	color:black;
+	font-weight:500;
+	line-height:150%;
+}
+#phone-border{
+	margin:0;
+	padding:0;
+}
+#hours{
+	font-size:1.2em;
+	color:black;
+	font-weight:700;
+	margin:0;
+	padding:0;
+}
+#facebook-like{
+	float:right;
+	width:12%;
+	height:2%;
+	position:relative;
+	right:8%;
+	margin-top:2.5%;
+}
+#bottom-content-box{
+margin-left:15%;
+}
+.history-text{
+	font-size:22px;
+	line-height:2;
+}
+#history-paragraph{
+	overflow: scroll;
+}
